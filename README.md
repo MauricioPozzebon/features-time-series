@@ -1,2 +1,2 @@
 # features-time-series
-Código simples para criação de features em time series
+Função simples para criação de features em time series.
